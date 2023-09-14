@@ -1,3 +1,5 @@
+// List is a doubly linked list
+
 #include <iostream>
 #include <list>
 #include <iterator>

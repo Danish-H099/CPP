@@ -1,3 +1,5 @@
+// Vector is a dynamic array that can grow and shrink in size.
+
 #include <iostream>
 #include <vector>
 using namespace std;
